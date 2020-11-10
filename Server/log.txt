@@ -1,0 +1,62 @@
+19:46:52 Server waiting for Clients on port 1500.
+
+19:49:10 mansi just connected.
+
+19:49:10 Server waiting for Clients on port 1500.
+
+19:49:14 mansi disconnected with a LOGOUT message.
+19:46:52 Server waiting for Clients on port 1500.
+
+19:49:10 mansi just connected.
+
+19:49:10 Server waiting for Clients on port 1500.
+
+19:49:14 mansi disconnected with a LOGOUT message.
+19:49:35 Mansi just connected.
+
+19:49:35 Server waiting for Clients on port 1500.
+
+19:49:38 Mansi Exception reading Streams: java.io.EOFException
+19:46:52 Server waiting for Clients on port 1500.
+
+19:49:10 mansi just connected.
+
+19:49:10 Server waiting for Clients on port 1500.
+
+19:49:14 mansi disconnected with a LOGOUT message.
+19:49:35 Mansi just connected.
+
+19:49:35 Server waiting for Clients on port 1500.
+
+19:49:38 Mansi Exception reading Streams: java.io.EOFException
+19:50:08 Mansi just connected.
+
+19:50:08 Server waiting for Clients on port 1500.
+
+19:52:35 Sanika just connected.
+
+19:52:35 Server waiting for Clients on port 1500.
+
+19:58:20 Sanika Exception reading Streams: java.net.SocketException: Socket closed
+19:46:52 Server waiting for Clients on port 1500.
+
+19:49:10 mansi just connected.
+
+19:49:10 Server waiting for Clients on port 1500.
+
+19:49:14 mansi disconnected with a LOGOUT message.
+19:49:35 Mansi just connected.
+
+19:49:35 Server waiting for Clients on port 1500.
+
+19:49:38 Mansi Exception reading Streams: java.io.EOFException
+19:50:08 Mansi just connected.
+
+19:50:08 Server waiting for Clients on port 1500.
+
+19:52:35 Sanika just connected.
+
+19:52:35 Server waiting for Clients on port 1500.
+
+19:58:20 Sanika Exception reading Streams: java.net.SocketException: Socket closed
+19:58:20 Mansi Exception reading Streams: java.net.SocketException: Socket closed
